@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Josna",
+      "username": "josna_reddy",
+      "email": "josna@gmail.com",
+      "phone": "959107458911",
+      "website": "josna.org"
+    },
+    {
+      "id": "2",
+      "name": "Chetan Kumar",
+      "username": "chetan_kumar",
+      "email": "chetankv@gmail.com",
+      "phone": "9742213513",
+      "website": "chetan.org"
+    },
+    {
+      "id": "3",
+      "name": "Hanvit",
+      "username": "hanvit_tej",
+      "email": "hanvit@gmail.com",
+      "phone": "123456789",
+      "website": "tej.org"
+    },
+    {
+      "id": "4",
+      "name": "Jyohan",
+      "username": "jyo_v",
+      "email": "jyohan@gmail.com",
+      "phone": "785412356",
+      "website": "jyo_v.org"
+    },
+    {
+      "id": "5",
+      "name": "pallavi",
+      "username": "pallavi_reddy",
+      "email": "pallavi@gmail.com",
+      "phone": "987456321",
+      "website": "12345.org"
+    },
+    {
+      "id": "53b2",
+      "name": "NagaShree",
+      "email": "nagashree@gmail.com",
+      "phone": "12345679"
+    }
+  ]
+}
